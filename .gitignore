@@ -5,6 +5,7 @@ config.py
 API_practice.ipynb
 Practice.ipynb
 Google_Nearby_Search.ipynb
+__pycache__
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
